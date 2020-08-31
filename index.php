@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello World, without coffee :(";
+echo "Hello World! Now with coffee :D";
